@@ -1,0 +1,5 @@
+1;SE140002;4;Thanh Hoa;05-07-2021;Ha Noi;09-08-2021
+3;SE150003;4;Thanh Hoa;05-07-2021;Ha Noi;09-08-2021
+5;SE140001;10;Ha Nam;19-10-2021;Long An;29-11-2021
+6;SE150004;10;Thua Thien Hue;17-10-2021;null;chưa tiem
+7;SE161251;2;Ha Noi;01-11-2021;null;chưa tiem
